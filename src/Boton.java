@@ -9,5 +9,6 @@
 public class Boton {
 
     private String color;
+	private String tamanio;
 
 }
